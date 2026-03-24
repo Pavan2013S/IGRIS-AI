@@ -1,0 +1,338 @@
+[
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Boss! Nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye Boss! It was nice chatting with you."
+    },
+    {
+        "role": "user",
+        "content": "good morning gress"
+    },
+    {
+        "role": "assistant",
+        "content": "It's not morning, Boss."
+    },
+    {
+        "role": "user",
+        "content": "it is more"
+    },
+    {
+        "role": "assistant",
+        "content": "It's evening, Boss."
+    },
+    {
+        "role": "user",
+        "content": "hey girish"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Igris, Boss. How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "hey girish"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Igris, Boss."
+    },
+    {
+        "role": "user",
+        "content": "hey grid"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Igris, Boss."
+    },
+    {
+        "role": "user",
+        "content": "good morning jarvis"
+    },
+    {
+        "role": "assistant",
+        "content": "It's evening, Boss."
+    },
+    {
+        "role": "user",
+        "content": "when is gudi padwa"
+    },
+    {
+        "role": "assistant",
+        "content": "Gudi Padwa is on March 22, 2026, or March 22, 2026, Boss, but I don't have that exact info, it is generally in March or April."
+    },
+    {
+        "role": "user",
+        "content": "when is gudi padwa"
+    },
+    {
+        "role": "assistant",
+        "content": "Gudi Padwa is on March 22, 2026, Boss"
+    },
+    {
+        "role": "user",
+        "content": "what is the date today"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is February 18, 2026, Boss."
+    },
+    {
+        "role": "user",
+        "content": "good evening jarvis"
+    },
+    {
+        "role": "assistant",
+        "content": "Good evening Boss."
+    },
+    {
+        "role": "user",
+        "content": "what's the time is running"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 7:49 PM, Boss."
+    },
+    {
+        "role": "user",
+        "content": "jarvis what's the time is running?"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 7:49 PM, Boss."
+    },
+    {
+        "role": "user",
+        "content": "mother name is vidya and my father's name is santosh"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Vidya and your father's name is Santosh, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what is your my father's name (note: this is a query but also somewhat ambiguous"
+    },
+    {
+        "role": "assistant",
+        "content": "Your father's name is Santosh, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what's my father's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Santosh, Boss."
+    },
+    {
+        "role": "user",
+        "content": "tu shant raho"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll stay silent, Boss, but I'll respond in English as per your initial request."
+    },
+    {
+        "role": "user",
+        "content": "what is my mother's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Vidya, Boss."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Boss."
+    },
+    {
+        "role": "user",
+        "content": "how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly, Boss."
+    },
+    {
+        "role": "user",
+        "content": "pardesiya"
+    },
+    {
+        "role": "assistant",
+        "content": "You said \"pardesiya\", Boss."
+    },
+    {
+        "role": "user",
+        "content": "your proper working jarvis"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm working correctly, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what is the time now"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 1:26 PM, Boss."
+    },
+    {
+        "role": "user",
+        "content": "general"
+    },
+    {
+        "role": "assistant",
+        "content": "You said \"general\", Boss."
+    },
+    {
+        "role": "user",
+        "content": "today date"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is February 20, 2026, Boss."
+    },
+    {
+        "role": "user",
+        "content": "my father's name"
+    },
+    {
+        "role": "assistant",
+        "content": "Santosh, Boss."
+    },
+    {
+        "role": "user",
+        "content": "my girlfriend name is shravani"
+    },
+    {
+        "role": "assistant",
+        "content": "Your girlfriend's name is Shravani, Boss."
+    },
+    {
+        "role": "user",
+        "content": "girlfriend ka"
+    },
+    {
+        "role": "assistant",
+        "content": "Shravani, Boss."
+    },
+    {
+        "role": "user",
+        "content": "my wife name is shravani"
+    },
+    {
+        "role": "assistant",
+        "content": "Your wife's name is Shravani, Boss."
+    },
+    {
+        "role": "user",
+        "content": "my sister name is priya"
+    },
+    {
+        "role": "assistant",
+        "content": "Your sister's name is Priya, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what you know about myself"
+    },
+    {
+        "role": "assistant",
+        "content": "I know that your mother's name is Vidya, your father's name is Santosh, your sister's name is Priya, and you were initially not married but later mentioned that your wife's name is Shravani, although earlier you mentioned Shravani as your girlfriend, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what you know about myself"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Vidya, father's name is Santosh, sister's name is Priya, and wife's name is Shravani, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what about my career"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have any information about your career, Boss."
+    },
+    {
+        "role": "user",
+        "content": "what about my study"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have any information about your studies, Boss."
+    },
+    {
+        "role": "user",
+        "content": "i am third year computer engineering student"
+    },
+    {
+        "role": "assistant",
+        "content": "You're a third-year Computer Engineering student, Boss."
+    },
+    {
+        "role": "user",
+        "content": "okay boss, see you later"
+    },
+    {
+        "role": "assistant",
+        "content": "See you later, Boss."
+    },
+    {
+        "role": "user",
+        "content": "good afternoon jarvis"
+    },
+    {
+        "role": "assistant",
+        "content": "It's not afternoon, Boss."
+    },
+    {
+        "role": "user",
+        "content": "i am not capable of generating an image of elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "I can provide text-based information about Elon Musk, Boss."
+    },
+    {
+        "role": "user",
+        "content": "elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate and entrepreneur, Boss."
+    },
+    {
+        "role": "user",
+        "content": "khullan"
+    },
+    {
+        "role": "assistant",
+        "content": "I didn't understand that, Boss."
+    },
+    {
+        "role": "user",
+        "content": "okay boss, see you later"
+    },
+    {
+        "role": "assistant",
+        "content": "See you later, Boss."
+    }
+]

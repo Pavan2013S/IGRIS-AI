@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<button id="start">Start Recognition</button>
+<button id="end">Stop Recognition</button>
+<p id="output"></p>
+
+<script>
+
+let recognition;
+
+if ('webkitSpeechRecognition' in window) {
+    recognition = new webkitSpeechRecognition();
+} else if ('SpeechRecognition' in window) {
+    recognition = new SpeechRecognition();
+} else {
+    alert("Speech Recognition not supported in this browser");
+}
+
+recognition.lang = "en";
+recognition.continuous = true;
+
+const output = document.getElementById("output");
+
+recognition.onresult = function(event) {
+    const transcript = event.results[event.results.length - 1][0].transcript;
+    output.textContent += transcript;
+}
+
+document.getElementById("start").onclick = () => recognition.start();
+
+document.getElementById("end").onclick = () => {
+    recognition.stop();
+    output.innerHTML="";
+}
+
+</script>
+
+</body>
+</html>
